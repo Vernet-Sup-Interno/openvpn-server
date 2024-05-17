@@ -1,0 +1,4 @@
+allow-list.csv
+
+# Except this file 
+!.gitignore

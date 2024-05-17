@@ -1,2 +1,5 @@
 .DS_Store
+docker-compose.yml
+server.conf
 bin/oath-orig.sh
+config/easy-rsa.vars
